@@ -12,4 +12,4 @@
 - `outputs.tf` - 定义了需要输出的信息。
 
 ## 创建 Vmware 虚机资源架构
-[https://github.com/guoguodeluc/terraform-vmware-exsi/tree/main/images](https://github.com/guoguodeluc/terraform-vmware-exsi/blob/main/images/workflow.jpg)
+![架构](https://github.com/guoguodeluc/terraform-vmware-exsi/blob/main/images/workflow.jpg)
